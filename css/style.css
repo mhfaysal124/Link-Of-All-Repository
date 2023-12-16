@@ -3,9 +3,19 @@
     color: white;
     background-color: #0D1117;
 }
+body{
+    padding: 30px;
+}
 ol li{
     line-height: 30px;
 }
 a{
     text-decoration: none;
+}
+a:hover{
+    color: orangered;
+}
+h1, h3{
+    border-bottom: 1px solid orangered;
+    padding-bottom: 10px;
 }
