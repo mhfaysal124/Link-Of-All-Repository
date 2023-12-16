@@ -1,0 +1,11 @@
+*{
+    font-family: Arial;
+    color: white;
+    background-color: #0D1117;
+}
+ol li{
+    line-height: 30px;
+}
+a{
+    text-decoration: none;
+}
